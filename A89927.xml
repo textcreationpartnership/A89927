@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The parliament of ladies. Or Divers remarkable passages of ladies in Spring-Garden; in Parliament assembled. Together with certaine votes of the unlawfull assembly, at Kates in Coven Garden. Vespre Veneris Martis: 26. 1647. Ordered by the ladies in parliament assembled, that their orders and votes be forthwith printed and published, to prevent such misreports and scandals, which either malice, or want of wit, hightned with snoffes of ale or stayned claret may cause, in the dishonour of the said votes and proceedings in parliament. Ja: Kingsmill Clar. Parliamen.</title>
+            <author>Neville, Henry, 1620-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89927</idno>
+            <idno type="STC">Wing N512</idno>
+            <idno type="STC">Thomason E388_4</idno>
+            <idno type="STC">ESTC R201501</idno>
+            <idno type="EEBO-CITATION">99862003</idno>
+            <idno type="PROQUEST">99862003</idno>
+            <idno type="VID">114150</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89927)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114150)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E388[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The parliament of ladies. Or Divers remarkable passages of ladies in Spring-Garden; in Parliament assembled. Together with certaine votes of the unlawfull assembly, at Kates in Coven Garden. Vespre Veneris Martis: 26. 1647. Ordered by the ladies in parliament assembled, that their orders and votes be forthwith printed and published, to prevent such misreports and scandals, which either malice, or want of wit, hightned with snoffes of ale or stayned claret may cause, in the dishonour of the said votes and proceedings in parliament. Ja: Kingsmill Clar. Parliamen.</title>
+                  <author>Neville, Henry, 1620-1694.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition corrected by the originall, unto which is added a supplement of some further proceedings in the said Parliament.</edition>
+               </editionStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Pinted [sic] in the yeare 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Henry Neville by Wing.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: on title page: "May 18th"; on page 5: misnumbering altered from 13 to 5.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term>Political satire, English --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114150:1" rendition="simple:additions"/>
+            <p>THE PARLIAMENT OF LADIES. OR Divers remarkable paſſages of Ladies in <hi>Spring-Garden;</hi> in Parliament Aſſembled. Together with certaine Votes of the unlawfull Aſſembly at <hi>Kates</hi> in <hi>Coven Garden.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="act">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Veſpre Veneris Martis:</hi> 26. 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>Ordered by the Ladies in Parliament Aſſembled, That their Orders and Votes be forthwith Printed and publi<g ref="char:EOLhyphen"/>ſhed, to prevent ſuch miſreports and ſcandals, which either malice, or want of wit, hightned with ſnoffes of Ale or ſtayned Claret may cauſe, in the diſhonour of the ſaid Votes and proceedings in Parliament.</p>
+                        <closer>
+                           <signed>Ja: Kingſmill Clar. Parliamen.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>The ſecond Edition corrected by the originall, unto which is added a Sup<g ref="char:EOLhyphen"/>plement of ſome further proceedings in the ſaid Parliament.</p>
+            <p>Pinted in the yeare 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114150:2"/>
+            <pb n="3" facs="tcp:114150:2"/>
+            <head>THE PARLIAMENT OF LADIES: OR Divers remarkable paſſages of Ladies in <hi>Spring-Garden</hi> in Parliament Aſſembled.</head>
+            <div type="proceedings">
+               <p>THE Rattle-headed Ladyes being Aſſembled at <hi>Kates</hi> in the Covent-Garden, and having ſpent ſome time in chooſing of their Speaker, it having been objected againſt the Lady <hi>Duches</hi> that ſhe had uſed beating up of quarters, and other uſuall ſports, too frequently with Prince <hi>Rupert;</hi> they at laſt reſolved upon the Lady <hi>Iſſabella Thinne,</hi> ho<g ref="char:EOLhyphen"/>ping thereby that theſe acts might have the greater influence up<g ref="char:EOLhyphen"/>on the Kings Majeſty.</p>
+               <p>Firſt, They tooke into conſideration their owne buſineſſe, &amp; voted, that no round head ſhould dare to come into any of their quarters.</p>
+               <p>Secondly, that on the contrary, none of the members of the Cavelliers doe cohabit in any of the Round heads quarters, or pay any contributions to them, by way of benevolence, or lone, &amp;c.</p>
+               <p>Thirdly, that thanks be given to the Lady <hi>Mountague, Tenhar Craven &amp;c.</hi> for their curtiſies and favours ſhown to the diſtreſ<g ref="char:EOLhyphen"/>ſed Caveliers beyond the Seas.</p>
+               <p>Fourthly, ordered here upon that the ſaid Ladyes, together with the Lady <hi>Standhoppe,</hi> have leave to ſell, give away, or o<g ref="char:EOLhyphen"/>therwiſe to diſpoſe of their french commodities, without pay<g ref="char:EOLhyphen"/>ing Exciſe or cuſtome.</p>
+               <p>
+                  <pb n="4" facs="tcp:114150:3"/>
+Fiftly, that Miſtris <hi>Phillips</hi> be forthwith ſent into <hi>France</hi> from this Houſe, to the Lord <hi>Mountague,</hi> to acquaint him how his Lady is negotiated, with the members of both Houſes.</p>
+               <p>Sixtly, that Ms. <hi>Cramlin</hi> for the Proteſtants, and Ms. <hi>Wibourn</hi> for the Papiſts, be appointed Meſſengers to attend the Houſe, and that they have the title given them, of Meſſengers of the Chamber.</p>
+               <p>
+                  <hi>The ſaid Ladyes in Parliament Aſſembled doe declare;</hi>
+               </p>
+               <p>That by their firſt Votes of this day, they doe not in any way intend to exclude from their quarters, that part of the Houſe of Peers, which voted the bill for maintenance of the Army, out of doors, in that the ſaid Lords are underſtood to be wel-affe<g ref="char:EOLhyphen"/>cted, and not Round-heads; whilſt theſe things were in agitation, in comes a Seargiant from the Houſe of Ladyes, at Miſtris <hi>Chips</hi> aſſembled, in the name of which, he pronounceth this an unlawfull Aſſembly, (a junto, a Mungrill Parliament) command<g ref="char:EOLhyphen"/>ing them to confine their Votes and themſelves to their own Houſes, there to continue during pleaſure. <hi>Hyde Parke, St. James Parke, Spring-Garden and Kates, in anywiſe notwithſtanding.</hi>
+               </p>
+               <p>This put their Lady ſhips into a great diſorder, and more con<g ref="char:EOLhyphen"/>fuſion then if they had been taken, with their gallants, by each of their Husbands, which is the cauſe we heare no more of this Parliament,</p>
+               <p>The Ladyes wel-affected (being as you heard, at their houſe in <hi>Spring Garden</hi>) ſpent ſome time in the chooſing of their Spea<g ref="char:EOLhyphen"/>ker, and the major part pitched on the Lady <hi>Holland;</hi> ſhee deſired to excuſe herſelfe, alleadging her Husbands deſerſion, and in<g ref="char:EOLhyphen"/>treated that al her right might be conferred on the Lady <hi>Carlile,</hi> but the ſaid Lady being not thought fit to be truſted, the Lady <hi>Exeter,</hi> was named, but it was objected by the Lady <hi>Hypſlay,</hi> that the ſaid Lady was a Delinquent, and had formerly carried ſupplies to the King; pretending likewiſe that her Husband, Sir <hi>Iohn Hypſlay,</hi> was much damnified in his eſtate and offices by the
+<pb n="5" facs="tcp:114150:3" rendition="simple:additions"/>ſaid ſupplies, but the Lady <hi>Salesbury</hi> comming in, this diſpute ſoone ended, and the Chaire was conferred on her, <hi>neminae Con<g ref="char:EOLhyphen"/>tradicentae</hi>
+               </p>
+               <p>Shee immediatly named Miſtris <hi>Peele</hi> Meſſenger to attend the Houſe, and the Lady <hi>Norton,</hi> together with the Lady <hi>Stapleton;</hi> to be door-keepers, with order to keep all out but Members, this was by all aſſented unto, notwithſtanding ſome exceptions were taken at the ſlowneſſe of Miſtris <hi>Peeles</hi> pace, it being aggrevated by one, that ſhee went ſlower then the Maſters of the Chancery, when they goe on meſſages.</p>
+               <p>Then their Lady-ſhips took into conſideration in the firſt place, the difficult caſes that might fall out in the buſineſſe of their Houſe, ordered that Maſter Docter <hi>Wetherborne</hi> be ſent from <hi>Holland,</hi> Maſter <hi>Daviſon</hi> from <hi>Paris</hi> to be Aſſiſtants to this Houſe, Ordered likewiſe that Maſter <hi>Dr. Hinton</hi> and Maſter <hi>Chamberline</hi> be alſo Aſſiſtants, that ſo with greater ſecreſie and eaſe there Lady ſhips might be helped out with their moſt trou<g ref="char:EOLhyphen"/>bleſome and preſſing affaires.</p>
+               <p>The Houſe then adjurned till the day following, where being met accordingly, the firſt buſineſſe was to ſend the aforeſaid Meſſengers, to the unlawfull Aſſembly at <hi>Kates;</hi> next falling upon their votes in Particular Declared;</p>
+               <p>That part of their Order to be an abſolute breach of the pri<g ref="char:EOLhyphen"/>viledge which forbids Caveliers to enter into the Round-heads quarters, and accordingly Ordered that the ſaid ſhee-Cavil<g ref="char:EOLhyphen"/>liers ſhall within two dayes depart this City and come not with<g ref="char:EOLhyphen"/>in twenty miles of the line of Communication: And farther Or<g ref="char:EOLhyphen"/>dered, that no malignant Lady preſume to walk in <hi>Spring Garden</hi> after twelve a clock at night, upon any pretence whatſoever.</p>
+               <p>Nixt their Lady-ſhips took into conſideration the great num<g ref="char:EOLhyphen"/>ber of Malignants and Delinquents, and Ordered, that there be a Committee for compoſition, to meet at the La. <hi>Kents,</hi> for Prote<g ref="char:EOLhyphen"/>ſtants, and at the Lady <hi>Lakes,</hi> for Papiſts.</p>
+               <p>
+                  <pb n="6" facs="tcp:114150:4"/>
+This day complaint was brought in againſt Sir <hi>Henry Blunt</hi> Knight, for publiſhing an hereticall and dangerous Doctrine, <hi>viz That it is better to ſide with and reſort to common Women then Ladyes of Honour:</hi> upon nature deliberation, thereof the Ladyes with much indignation ſent for him, who being come, and hear<g ref="char:EOLhyphen"/>ing his accuſation read, was commanded to with draw during this <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Lady <hi>Foſter</hi> and offers to the conſide<g ref="char:EOLhyphen"/>ration of the Houſe, the dangerous effect of this opinion, what it might produce if it <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſuffered to ſpread among the people, to the utter decay of Trade, as alſo of the particular Committee of Rheniſh wine, in the moſt parts Cheeſe-cakes, and ſill<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bubs, whereby the profit of this Houſe will be greatly deminiſhed.</p>
+               <p>This ſpeech was received with great applauſe of the whole Houſe, and the ſaid Sir <hi>Henry Blunt</hi> was called in the ſecond time, who being commanded to kneele, refuſed, alleadging that the Houſe was no lawfull judicature, but appealed to all the Com<g ref="char:EOLhyphen"/>mons of <hi>England</hi> and <hi>Wales;</hi> which ſuſpended all proceedings therein for a time.</p>
+               <p>The Houſe conſidered in the next place, that divers weak per<g ref="char:EOLhyphen"/>ſons have crept into places beyond their abilities, and to the end that men of greater parts might be put into their rooms, they ap<g ref="char:EOLhyphen"/>pointed the Lady <hi>Midleſex,</hi> Miſtris <hi>Dunch,</hi> the Lady <hi>Foſter,</hi> and the Lady <hi>Anne Waller</hi> by reaſon of their great experience in Sol<g ref="char:EOLhyphen"/>diery in this Kingdome, to be a Committee of Tryers for the buſineſſe.</p>
+               <p>The Houſe being ready to ajourne, there came newes of a quarrell between two notorious members of this Houſe Mi<g ref="char:EOLhyphen"/>ſtris <hi>Harris,</hi> and Miſtris <hi>Dunch,</hi> much good councell was given them to agree, and unice againſt the common enemy, their Hus<g ref="char:EOLhyphen"/>bands, and it was at length ordered that theſe ſhould be reconci<g ref="char:EOLhyphen"/>led, and <hi>Tom Temple</hi> to put up his blade.</p>
+               <p>The morning following they tooke into conſideration all the ſeverall garriſons of the Kingdome, what were to be kept and what not: And ordered:</p>
+               <p>
+                  <pb n="7" facs="tcp:114150:4"/>
+Firſt, that <hi>Northamton</hi> be continued a Garriſon, and that the Lady <hi>Sunderland</hi> be requeſted to take the command of it on her; notwithſtanding the ſelfe-denying Ordinance.</p>
+               <p>Secondly, Ordered that an Engliſh Garriſon be put into <hi>Car<g ref="char:EOLhyphen"/>lile,</hi> to prevent a forraigne Enemy getting into poſſeſſion there: of; as is to be feared by reaſon of ſome ſecret intelligence had by the <hi>French</hi> Imbaſſodor in that place.</p>
+               <p>Thirdly, that <hi>Lycheſter, Newport,</hi> and <hi>Malbrough,</hi> and all other that are either old fortifications, or otherwiſe uſeleſſe be forth<g ref="char:EOLhyphen"/>with ſlighted.</p>
+               <p>
+                  <hi>After this they tooke into conſideration the ſtanding forces in this Kingdome, with their ſeverall entertainments, and Ordered;</hi>
+               </p>
+               <p>Firſt, That the Lord <hi>Francis,</hi> Maſter <hi>Slings by,</hi> Maſter <hi>Tuſton,</hi> Maſter <hi>Antum,</hi> have pay allowed them continually, that they ſhall be provided to draw forth in ſervice at the leaſt warning.</p>
+               <p>Secondly, that Colonell <hi>Cooke,</hi> Maſter <hi>Henry Haward,</hi> of <hi>Berkes,</hi> and Maſter <hi>Nevell,</hi> have free quarter only.</p>
+               <p>Thirdly, that the Prince <hi>Electer,</hi> Prince <hi>Griffeth,</hi> and Maſter <hi>Glaſcock</hi> hence-forth pay their quarters.</p>
+               <p>Ordered that by adition to their firſt Vote, that Sir <hi>Iohn Mor<g ref="char:EOLhyphen"/>ley,</hi> be forth with paid for his ſervice to the Houſe, notwithſtand<g ref="char:EOLhyphen"/>ing his Delinquencie, but ſo that if he ſhall break out any more, he ſhall be errecoverably put into the exceptions.</p>
+               <p>Ordered that all ſuch forces as ſhall be disbanded, ſhal be ſent for <hi>Ireland,</hi> or otherwiſe diſpoſed out of this Kingdome.</p>
+               <p>Their Lady-ſhips were then informed, that a Meſſenger then waited at the doore, from the Houſe of Commons, and Sir <hi>Peter Wentworth,</hi> and Maſter <hi>Bainton,</hi> who brought it, being let in, they found it was for the relief of maimed Souldiars, their Ladyſhips referred them to the Lady <hi>Peeterborough,</hi> to conſider? what relief was to be given them, to whom they joyned Miſtris <hi>Howard,</hi> ſometimes a maid of Honour, ſhee having purged her ſelfe of her Malignancy.</p>
+               <p>
+                  <pb n="8" facs="tcp:114150:5"/>
+This day the Houſe received reports from the Committee of complaints, and firſt, againſt the Prince <hi>Elector,</hi> who was ac<g ref="char:EOLhyphen"/>cuſed that he was not ſecret in his truſt to this houſe, but berai'd them in their ſervice, by acquainting Prince <hi>Griffeth</hi> with his his main deſigne, and ſoin ſtead of doing their buſineſſe, did his own; next againſt Prince <hi>Griffeth,</hi> that by treachery he gained neare the workes, and then by a ſtorme tooke a fort that would have yeelded upon reaſonable conditions. This was urged much againſt him by the Lady <hi>Herbe</hi> and the Lady <hi>Sidley,</hi> the conſideration of this buſines was put of till another time, and al<g ref="char:EOLhyphen"/>ſo another accuſation againſt the ſaid Prince, that he had deſer<g ref="char:EOLhyphen"/>ted his imployment both brought in by the Lady <hi>Barrington.</hi>
+               </p>
+               <p>The next was an accuſaſion againſt the Lord <hi>Rich</hi> (the righth onourable) by the Lady <hi>Mary Cockyn, Alias Cullen</hi> who pretended that ſhee had been plundered by the ſaid Lord, to the valew of two thouſand pounds, of jewels and other commodi<g ref="char:EOLhyphen"/>ties, but it being alleadged by the Lady <hi>Warwick,</hi> that it was done to one that had bin a Co<g ref="char:cmbAbbrStroke">̄</g>mander againſt the Parliament, the accuſation was caſt out.</p>
+               <p>Then the Houſe ajourned till the next day.</p>
+               <p>The firſt buſineſſe this day was the report from the Com<g ref="char:EOLhyphen"/>mittee of Tryers, who named in the firſt place, the right honou<g ref="char:EOLhyphen"/>rable the Earle of <hi>Denbeigh,</hi> to be a man of extraordinary abili<g ref="char:EOLhyphen"/>ties and parts, whereupon it was ordered that his Lord ſhip be commander in chiefe of all the ſtanding forces of this King dome, and that his head quarters be in <hi>Andover,</hi> untill the Houſe have ſome other need of his Forces.</p>
+               <p>Ordered that the Lord <hi>Cambaen,</hi> in regard of his large tal<g ref="char:EOLhyphen"/>lent, have a favourable compoſition at the Lady <hi>Kents.</hi>
+               </p>
+               <p>Ordered that <hi>Sir Ambrogio</hi> a <hi>Politicke Italian</hi> be had in re<g ref="char:EOLhyphen"/>membrance, for his extreordinary payns to content this Houſe, and that when the affaires of this Kingdome be ſetled, he be put into the Duch office, and in the mean time, being what he
+<pb n="9" facs="tcp:114150:5"/>had before did not content him, that he be ſatisfied out of Mis. <hi>Hils</hi> arreares which are forfited to the State for ſome <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of hers</p>
+               <p>This buſineſſe being over, up ſtands the Lady <hi>Middleſex</hi> the zealous and wel affected Lady <hi>Mildmay,</hi> and moved that a pub<g ref="char:EOLhyphen"/>licke Faſt might be appointed for imploring, for mens conſtant affections towards this Houſe, and alſo to ſtop the contagious in<g ref="char:EOLhyphen"/>fection and itching humours that are now crept in among us and likely to over ſpread us all if not timely ſtopt, the motion was imbraced, and Maſter <hi>Oſbeſtone</hi> ſome time Prebend at <hi>Pe<g ref="char:EOLhyphen"/>ters Weſtminſter,</hi> together with Doctor <hi>Sibbald,</hi> Paſtor of <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, Clarkenwell,</hi> mentioned to preach before the How<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> one <hi>Cor<g ref="char:EOLhyphen"/>nelius,</hi> brought in an accuſation againſt the Doctor <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, for one il-affected to the preſent government, having preached lately in his houſe in a Tub, where upon he was rejected, and the Lady <hi>Kinſington</hi> deſired that Maſter <hi>Sal<gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </hi> might be ſub<g ref="char:EOLhyphen"/>ſtituted in his <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, of whoſe great parts and able perfor<g ref="char:EOLhyphen"/>mances ſhee had long experience, which preſently was aſſen<g ref="char:EOLhyphen"/>ted unto by all.</p>
+               <p>Their Ladyſhips in the next place took <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> conſideration the great decay of Cattle and other Beaſts in the Kingdome, during this unnaturall Warre, thought the fitteſt means for a remedy, to be their Ladyſhips ſending (as they did) to the Commons to in<g ref="char:EOLhyphen"/>treat them that ſome of their members might joyne with their Ladyſhips to conſider of the ſaid buſineſſe, they preſently named La. <hi>Gray,</hi> and the H. C. the L. <hi>Gray</hi> her Huſband, to be a Com<g ref="char:EOLhyphen"/>mittee, to debate the fitteſt meanes multiply and increaſe the ſaid Beaſts to whom they gave theſe inſtructions.</p>
+               <p>That <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi> be intreated and the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of this Houſe therein uſed, to returne to his Concubine here, notwithſtan<g ref="char:EOLhyphen"/>ding his wife be alive at <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> becauſe <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> hath not that urgent neceſſity of multiplying Beaſts as this Kingdom hath.</p>
+               <p>
+                  <pb n="11" facs="tcp:114150:6"/>
+That they ſhall intreat all, or the moſt part of the Morleys in <hi>England,</hi> and all other men of that ſhape, to marry.</p>
+               <p>That all ſuch men who have vowed, whether Priſoners, or Free men, never to cut their beards till his Majeſty comes to <hi>London,</hi> be incouraged therein.</p>
+               <p>The Houſe then taking into conſideration the ſale of Delin<g ref="char:EOLhyphen"/>quents eſtates, Ordered, that Maſter <hi>Harrington:</hi> for his good ſervice, have the E. of <hi>New caſtles</hi> baggage, and alſo that the Lady <hi>Devonſhire</hi> have <hi>Worcheſter</hi> houſe, notwithſtanding the Votes of the Houſes at <hi>Weſtminſter,</hi> in favour of the Earle of <hi>Salsbury,</hi> that her Ladyſhip may be preſent with leſſe trouble at her many and ſerious negotiations with the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Commiſſioners.</p>
+               <p>This day a Petition came from the Lady <hi>Stanhoppe,</hi> humbly deſiring that ſhee might be received into their Houſe, pretending that ſhee was wel-affected, but it was urged to the contrary, that ſhee affected, it was true, but a Scotiſh affection m<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>'d with a French, could never make her a more affected Lady; it was farther alledged, that the ſaid Lady had been in armes un<g ref="char:EOLhyphen"/>der Colonell <hi>Slingsby,</hi> but ſome friends anſwered in her be<g ref="char:EOLhyphen"/>halfe that it was under which Maſter <hi>Slingsby</hi> who was ordered to be kept for this Houſe, and ſo the debate was put off till ano<g ref="char:EOLhyphen"/>ther time.</p>
+               <p>A motion was then made for putting down of playes, where<g ref="char:EOLhyphen"/>upon the Lady <hi>Munmouth</hi> deſired it might be explained what playes were meant, for as much if they ſhould put down the game at <hi>In and in,</hi> it would prove much to the prejudice of their Houſe, as alſo to Maſter <hi>Young,</hi> who had deſerved well of her Ladyſhips, but anſwer being made, Stage-playes were only un<g ref="char:EOLhyphen"/>derſtood, ſhee declared ſhee would concurre with the Houſe in that, now Sir <hi>John Suckling</hi> was dead, but truly ſhee lik'd his play well.</p>
+               <p>After this it was moved by the Lady <hi>Crompton,</hi> that a thanks<g ref="char:EOLhyphen"/>giving day might be appointed for the recovery of the right
+<pb facs="tcp:114150:6"/>honourable the <hi>Earle</hi> of <hi>Pembrooke,</hi> which was conſented unto, and Maſter <hi>Caudry</hi> was deſired to preach, and be defired to ſing the Pſalme in Engliſh and not in Hebrew.</p>
+               <p>Ordered that thanks be given Maſter <hi>Robinſon</hi> for hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d vout prayer, that the ſaid Lord might once more clime one M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y-hill.</p>
+               <p>The Houſe then appointed Commiſſioners to goe to his Ma<g ref="char:EOLhyphen"/>jeſty; <hi>viz.</hi> The Lady of <hi>Oxford,</hi> and <hi>Stamford,</hi> together with the Lady <hi>May,</hi> to move His Majeſties heart to give a reall aſſent, that ſo an happy union may follow.</p>
+               <p>This day they paſſed an act of oblivion to the Lady <hi>Delk<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh,</hi> the Lady <hi>Scot,</hi> the Lady <hi>Aubigne,</hi> and Miſtris <hi>Ray,</hi> for their Delin<g ref="char:EOLhyphen"/>quency in the Enemies quarters.</p>
+               <p>Soon after the Lady <hi>Norton,</hi> door-keeper of the Houſe, com<g ref="char:EOLhyphen"/>plained of Sir <hi>Robert Harlow</hi> a member of the Houſe of Com<g ref="char:EOLhyphen"/>mons, for attempting to deface her, which hapned thus, the ſaid Lady being a zealous Independant, and ſo one of the Saints, and Sir <hi>Robert</hi> having found out that ſhee was likewiſe painted, hee pretended that ſhee came with his Ordinance of Idolatry, Saints Croſſes, &amp;c. But ſome friends of the Lady door kee<g ref="char:EOLhyphen"/>per, urging on her behalfe, that none did ever yet attempt to adore or worſhip her, ſhee was juſtified, and the Houſe then de<g ref="char:EOLhyphen"/>clared that if any perſon by vertue of any power whatſoever, pretended to be derived from the Houſe of Commons, or any other Court, ſhall goe about to impeach, hinder, or diſturbe any Lady, from painting, waſhing, or adorning her ſelfe to the beſt advantage, as alſo from platting, of her hair, or veſting of Teeth, that, that act is a great breach of the priviledge of the Houſe, and that the offenders ſhall be proceeded againſt accor<g ref="char:EOLhyphen"/>dingly.</p>
+               <p>In the laſt place, their Ladyſhips being to adjourne for ſome weekes, deſired firſt, that a main point in divinity might be de<g ref="char:EOLhyphen"/>ſided, <hi>viz.</hi> what is meant by the word <hi>(Due benevolence)</hi> In the new Teſtament, and in order there-unto they ſent to the Mini<g ref="char:EOLhyphen"/>ſters
+<pb n="12" facs="tcp:114150:7"/>of the Aſſembly, intreating them to make ſome declaration concerning the ſame, the Meſſengers found the Aſſembly bu<g ref="char:EOLhyphen"/>ſie about their own affaires, indevouring to bring that text <hi>(leſſe the Sonne leaſt he be angry)</hi> to prove Presbytery, but underſtand<g ref="char:EOLhyphen"/>ing their Ladyſhips requeſt, they left it, and fell preſently upon debate of the ſaid (<hi>Due benevolence</hi>) which I doe not intend to ſet downe particularly, it being not to be found in the La. journall, only I heare, that Maſter <hi>Obediah Sedwicks</hi> opinion was, that if a man had been abſent from his Spouſe any time, that then the conjugall tye, obliged him to ſolace her now, and anon too, and that is to ſay twice in the compaſſe of a naturall day, and it being alleadged no rule can be made for it, it depending upon mens ſeverall conſtitutions and healths, it was declared by them that all and evey man coupled in the bond of Matrimony and wedlock, he is ingaged to content his Mate and fellow feeler, as often as the ſtrength of his body will permit.</p>
+               <p>Their Ladyſhips having received this Decree, deſired them to make it (<hi>Iure Divine</hi>) and to publiſh it, that ſo no Husband in the Country may pretend ignorance, whereupon their Holineſs made this inſuing Cannon.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="decree">
+                           <head>Die Iovis <hi>25.</hi> Mar. <hi>1647.</hi>
+                           </head>
+                           <p>It is by theſe preſents Decreed and declared to all the world, by the Counſell called and met at <hi>Weſtminſter</hi> in the Kingdome of great <hi>Brittain,</hi> that all men who have, or ſhal take upon them the ſtate of Matrymony, are by their vowes and by the ſenſe of holy writ, oblidged to comfort and comply with their Wives as oft as their ſtrength of body will permit and give them leave, and though they ſhould pretend that it ſtood not with their, af<g ref="char:EOLhyphen"/>aires, that they be oblidged thereunto notwithſtanding, this we enjoyne and command in the Kingdome, under penalty of being debarred the Sacrament, of which wee hope to have the Mo<g ref="char:EOLhyphen"/>nopoly.</p>
+                           <closer>
+                              <signed>Adonira. Bifield Scribe.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>
+                  <pb n="13" facs="tcp:114150:7"/>
+The day following in the evehing this Decrees be<g ref="char:EOLhyphen"/>ing brought to their Ladyſhips, they ordered that the Speaker of their Houſe ſhould give thankes to the mem<g ref="char:EOLhyphen"/>bers of the Aſſembly of Divines, for their great care and paines in reforming of this Kingdome, and in particular for this preſent Declaration, and Ordered theſe their Votes ſhould be printed, and ſo they adjourned till far<g ref="char:EOLhyphen"/>ther time.</p>
+            </div>
+            <div type="proceedings">
+               <head>Dies <g ref="char:V">Ʋ</g>eneris <hi>8.</hi> Aprilis <hi>1647.</hi>
+               </head>
+               <p>This day there was a commotion in the houſe, by rea<g ref="char:EOLhyphen"/>ſon of a diſorder in the City, occaſioned by a rumor of Doomſ-day, which the people did beleeve was at hand, and that the World was now ending, becauſe it hath met with its beginning, for <hi>Adam</hi> and <hi>Eue,</hi> were ſeen both in one perſon, and whereas <hi>Eue</hi> was once taken out of <hi>Adam, Adam</hi> was now ſeen ſtruting out of <hi>Eue.</hi>
+               </p>
+               <p>The Houſe fearing what iſſue this monſter and the multitude might bring forth, and doubting a generall inſurrection, doubled all their Guards, and deſired the timely aſſiſtants of their deer Siſters of <hi>Scotland,</hi> where<g ref="char:EOLhyphen"/>upon the Lady <hi>Fowler,</hi> Madam <hi>Grey,</hi> and Ms. <hi>Hamlen</hi> were ſent to, to draw up all their forces, and put them in order, to receive the firſt charge, in caſe any were ſeen to advance.</p>
+               <p>The Forces of the City under the command of <hi>Mall Cutpurſe,</hi> and <hi>Mall Sebran,</hi> two very able Members, were
+<pb n="14" facs="tcp:114150:8"/>appointed to guard the Houſe, who being there placed with pipes in both theirmouthes, with fire and ſmoake in a very ſhort time, had almoſt choaked both the paſ<g ref="char:EOLhyphen"/>ſage and the Paſſ ngers.</p>
+               <p>But on the ſudden they were furiouſly aſſaulted, and although Madam <hi>Sebran</hi> kept ſtoutly to her poſt, yet ſhe was faine to fall back at laſt, and lye at her open guard giving entrance to the Aſſailant, who carleſly paſſing their whifflers, ſuddenly entred the Houſe, and put al<g ref="char:EOLhyphen"/>moſt all to the ſqueake.</p>
+               <p>The Speaker being ſomthing more manly then the reſt, oppoſed her ſelfe to this intruder, demanding from what place? upon what buſineſſe? and who ſhee was? (for as yet the Phantome apearred more like <hi>Eve</hi> then <hi>Adam</hi>) that had contrary to the rules of the Houſe, thus publickly thruſt her ſelfe into their ſecrets, and com<g ref="char:EOLhyphen"/>manded her immediattly to with-draw, but ſhe anſwe<g ref="char:EOLhyphen"/>red that ſhee entred upon her own right, being as good a member as any there, and that moſt of them knew ſhee had alwaies ſtood ſtiffe in the buſineſſe (being in action) when they were but in conſultation, and her name was Madam <hi>Swivalshe-met Hungerford.</hi>
+               </p>
+               <p>The very ſight of this Madam with a Dildoe, toge<g ref="char:EOLhyphen"/>ther with the noiſe of her name, put the Houſe into a<g ref="char:EOLhyphen"/>great ſilence, and ſome began to whiſper an adjourn<g ref="char:EOLhyphen"/>ment, but twas not thought fit, to leave one of ſuch
+<pb n="15" facs="tcp:114150:8"/>extraordinary parts (of whom Anny-ſeed <hi>Robbin</hi> was but a Type) abſolutely unſatisfied, eſpecially all the Try<g ref="char:EOLhyphen"/>ars acknowledging her abilities, and many other La<g ref="char:EOLhyphen"/>dies openly declaring in her behalfe.</p>
+               <p>VVherefore for the preſent after a publike acknowledgment of her pregnent ſervices, it was ordered by reaſon of the affright that the City had been in, that now ſhee ſhould on<g ref="char:EOLhyphen"/>ly go viſit, and ſhow her ſelfe to the Alder<g ref="char:EOLhyphen"/>mens wives, and immediatly after ſhould fol<g ref="char:EOLhyphen"/>low a publike thankſgiving for their daugh<g ref="char:EOLhyphen"/>ters happy delivery.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
